@@ -9,12 +9,12 @@ project.
 
 ## Reporting a Bug
 
-The `standard` team and community take all security bugs in `standard` seriously.
-Thank you for improving the security of `standard`. We appreciate your efforts and
+The Athos team and community take all security issues very seriously.
+Thank you for improving the security of Athos. We appreciate your efforts and
 responsible disclosure and will make every effort to acknowledge your
 contributions.
 
-Report security bugs by emailing the lead maintainer at feross@feross.org.
+Report security bugs by emailing the lead maintainer at .
 
 The lead maintainer will acknowledge your email within 48 hours, and will send a
 more detailed response within 48 hours indicating the next steps in handling
